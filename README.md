@@ -20,4 +20,4 @@ The flow to run all programs on the Montirong gas station project.
 10. Open the application and login using the email and password used during registration.
 11. The application will automatically retrieve data from Firestore according to the address of the 'document' that has been created.
 12. The application can monitor the results of the number plate reading and gasoline.
-13. Data is displayed on the application dashboard in the form of list items and graphs
+13. Data is displayed on the application dashboard in the form of list items and graphs.
